@@ -5,6 +5,6 @@ namespace :db do
                          email: "example@railstutorial.org",
                          password: "foobar",
                          password_confirmation: "foobar",
-                         admin: true)
+                         admin: false)
       end
 end
